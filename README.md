@@ -12,8 +12,7 @@
 <div class="markdown_handler">
 	
 - Currently working on **internet store** and **web parser for job search**
-- Expanding knowledge in C# and algorythms
-- Learning Angular
+- Expanding knowledge in C#, algorythms and data structures
 - Feels like I want to experiment and try different development fields since I'm a beginner
 	
 </div>
